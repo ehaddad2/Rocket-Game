@@ -1,6 +1,5 @@
 # Rocket-Game
- Creators: Elias Haddad (ehaddad2@u.rochester.edu), Yousra Awad (yawad2@u.rochetser.edu)
- , Apsharee Ireen (aireen@u.rochester.edu)
+ Creators: Elias Haddad, Yousra Awad, and Apsharee Ireen -- @rochester.edu
 
  //Apsharee Ireen//
 - designed rocket, hearts, coins, arrow, and incorporated them into the game's paint component
