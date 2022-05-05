@@ -9,7 +9,7 @@
 - designed background and worked on collsiion detection. Incorporated gravity, and speed/motion components.
 
 //Yousra Awad//
-- designed collidables (hearts and coins) and worked on collision detection. 
+- designed collidables (hearts and coins), worked on collision detection, and JFrame organization. 
 
 
 /*******************************************************************************************************************/
